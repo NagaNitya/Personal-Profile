@@ -1,0 +1,60 @@
+body{
+    background-image: url('background.jpg');
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 19px;
+    overflow-x: hidden;
+    width: 100%;
+    margin: auto;
+}
+
+h1{
+    font-size: 50px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+navbar{
+    background-color: black;
+    display: flex;
+    padding: 30px;
+    width: 95%;
+    border-radius: 15px;
+    height: 15px;
+    margin: auto;
+}
+
+navbar>a{
+    color: white;
+    margin: auto;
+    align-items: center;
+    text-decoration: none;
+}
+
+#mainbody{
+    width: 90%;
+    margin: auto;
+    background-color: #f4d92abf;
+    color: black;
+    margin-top: 50px;
+    border: solid 2px black;
+    border-right: solid 6px black;
+    border-bottom: solid 10px black;
+    border-radius: 15px;
+   padding: 20px;
+}
+
+#images{
+    margin: auto;
+    align-self: center;
+    align-items: center;
+    background-color: rgb(42, 110, 170);
+}
+
+img{
+    height: 150px;
+    width: auto;
+}
+
+
+
